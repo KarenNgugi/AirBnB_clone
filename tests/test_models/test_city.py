@@ -47,7 +47,7 @@ class TestCodeFormat(unittest.TestCase):
         base = City()
         self.assertTrue(hasattr(base, "name"))
         self.assertEqual(type(base.name), str)
-    
+
     def test_state_id(self):
         '''state_id testing'''
         base = City()
