@@ -1,4 +1,4 @@
-# Python - AirBnB clone - The Console
+# AirBnB Clone - The Console
 
 ## Background Context
 ### First step: Write a command interpreter to manage your AirBnB objects.
